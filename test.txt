@@ -1,4 +1,5 @@
 Titel:
-mijn stijle test
+mijn korte test
 
 hier komt later nog een stijl verhaal hoe git werkt
+
